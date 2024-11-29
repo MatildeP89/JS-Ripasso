@@ -1,0 +1,14 @@
+h1{
+    color: rgb(230, 78, 250);
+}
+
+body{
+    background-color: black;
+}
+
+
+
+a.gobutton{color: fuchsia; background-color: white; border: 1px solid fuchsia;}
+
+a.gobutton:hover {color: white; background-color: fuchsia; border: 1px solid white;}
+
